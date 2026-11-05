@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "8faf881d9730b5ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "0014aef59fa88027",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b2b29552413b585",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/2026-11-05.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-11-05"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97376165057f425a",
+    "type": "split",
+    "children": [
+      {
+        "id": "afadf49e1b2c7fb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f80c659bf89bb9a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "ca3a7b49ff83d2c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "73553d3e9b593420",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c830ec41703ef14",
+    "type": "split",
+    "children": [
+      {
+        "id": "360acedc66fec2ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3584e991328282e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Willkommen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise"
+            }
+          },
+          {
+            "id": "58e228050b627566",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Willkommen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links"
+            }
+          },
+          {
+            "id": "da315beeba3a2d9c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "90ea0f9d49a3ddb6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "99f4c31c44674ce2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Willkommen.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
+    }
+  },
+  "active": "4b2b29552413b585",
+  "lastOpenFiles": [
+    "Journal/2026-11-05.md",
+    "Aufgaben.md",
+    "Kunden/KULTEvents AG/Übersicht.md",
+    "Kunden/histify AG/Übersicht.md",
+    "Kunden/KULTEvents AG/Übersicht.md.fetch",
+    "Kunden/fabasoft Schweiz GmbH/Übersicht.md",
+    "Skripts/Wordpress File System Monitoring/Dokumentation.md",
+    "Skripts/Wordpress File System Monitoring/Dokumentation.md",
+    "Skripts/Wordpress File System Monitoring/gsv-monitor - Anleitung.md.fetch",
+    "Skripts/Wordpress File System Monitoring/Anleitung.md.fetch",
+    "Skripts/Wordpress File System Monitoring",
+    "Skripts/Wordpress File System Monitoring/gsv-monitor.sh",
+    "Skripts",
+    "Journal/2026-11-05.md.fetch",
+    "Vorlagen/Journal.md",
+    "Aufgaben.md.fetch",
+    "Kunden/histify AG",
+    "Kunden/KULTEvents AG",
+    "Willkommen.md",
+    "2026-11-05.md"
+  ]
+}

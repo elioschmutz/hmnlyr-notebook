@@ -1,0 +1,7 @@
+{
+  "openBehavior": "daily",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
+}
