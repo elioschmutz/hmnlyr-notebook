@@ -6,8 +6,6 @@ tags:
   - histify
 ---
 
-# histify AG
-
 ## Kundenbeschreibung
 
 Die histify AG ist ein Schweizer Softwareunternehmen mit Sitz in St. Gallen und wurde 2024 gegründet. histify entwickelt Software, mit der Archive, Museen, Bibliotheken und Galerien ihre Sammlungen verwalten und öffentlich zugänglich machen können.

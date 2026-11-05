@@ -8,8 +8,6 @@ tags:
   - fabasoft
 ---
 
-# fabasoft Schweiz GmbH
-
 ## Kundenbeschreibung
 
 Die fabasoft Schweiz GmbH ist die Schweizer Tochtergesellschaft der Fabasoft AG, eines börsennotierten Softwareherstellers mit Hauptsitz in Linz (Österreich). Fabasoft entwickelt Software für digitales Dokumentenmanagement, elektronische Akten- und Geschäftsverwaltung sowie Cloud-Lösungen für die Zusammenarbeit über Organisationsgrenzen hinweg.

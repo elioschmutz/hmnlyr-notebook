@@ -1,3 +1,12 @@
+---
+tags:
+  - code
+  - wordpress
+  - bash
+---
+
+Teil von [[WordPress]]. Skript: [[gsv-monitor.sh]]
+
 ## Zweck
 
 Das Skript prüft, ob im Webverzeichnis (`~/public_html`) neue Google-Verifizierungsdateien aufgetaucht sind. Solche Dateien heissen z.B. `google1a2b3c4d5e6f7a8b.html`. Findet es eine, schickt es eine Alarm-Mail.

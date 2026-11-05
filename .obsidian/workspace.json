@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kunden/fabasoft Schweiz GmbH/Tickets/TI-3845/TI-3845.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TI-3845"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:wordpress",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,12 +200,26 @@
   },
   "active": "4b2b29552413b585",
   "lastOpenFiles": [
-    "Kunden/fabasoft Schweiz GmbH/Tickets/TI-3845/TI-3845 Big Picture.md",
+    "Code/WordPress/WordPress.md",
+    "Code/WordPress/Sicherheit/File System Monitoring/File System Monitoring.md",
+    "CLAUDE.md",
+    "Code/Code.md",
+    "Code/WordPress/Sicherheit/File System Monitoring/gsv-monitor.sh",
+    "Code/WordPress/Sicherheit/File System Monitoring",
+    "Code/WordPress/Sicherheit",
+    "Code/WordPress/Beispiele/File System Monitoring/gsv-monitor.sh",
+    "Code/WordPress/Beispiele/File System Monitoring/File System Monitoring.md",
     "Kunden/fabasoft Schweiz GmbH/Tickets/TI-3845/TI-3845.md",
+    "Vorlagen/Code-Eintrag.md",
+    "Code/WordPress/Beispiele/File System Monitoring",
+    "Code/WordPress/Snippets",
+    "Code/WordPress/Howtos",
+    "Code/WordPress/Beispiele",
+    "Code/WordPress",
+    "Code",
+    "Kunden/fabasoft Schweiz GmbH/Tickets/TI-3845/TI-3845 Big Picture.md",
     "Journal/2026-11-05.md",
     "Aufgaben.md",
-    "Kunden/fabasoft Schweiz GmbH/Tickets/TI-3845",
-    "Kunden/fabasoft Schweiz GmbH/Tickets",
     "Vorlagen/Journal.md",
     "Unbenannt.canvas",
     "Kunden/histify AG/histify AG.md",
@@ -213,17 +227,8 @@
     "Kunden/KULTEvents AG/KULTEvents AG.md",
     "Kunden/histify AG/Übersicht.md",
     "Kunden/KULTEvents AG/Übersicht.md",
-    "CLAUDE.md",
     "Skripts/Wordpress File System Monitoring/Dokumentation.md",
-    "Kunden/KULTEvents AG/Übersicht.md.fetch",
     "Kunden/fabasoft Schweiz GmbH/Übersicht.md",
-    "Skripts/Wordpress File System Monitoring/gsv-monitor - Anleitung.md.fetch",
-    "Skripts/Wordpress File System Monitoring/Anleitung.md.fetch",
-    "Skripts/Wordpress File System Monitoring",
-    "Skripts/Wordpress File System Monitoring/gsv-monitor.sh",
-    "Skripts",
-    "Journal/2026-11-05.md.fetch",
-    "Aufgaben.md.fetch",
     "Willkommen.md",
     "2026-11-05.md"
   ]

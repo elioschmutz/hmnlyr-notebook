@@ -8,8 +8,6 @@ tags:
   - kultevents
 ---
 
-# KULTEvents AG
-
 ## Kundenbeschreibung
 
 Die KULTevents AG ist eine Eventagentur mit Sitz in Alterswil FR. Sie plant und organisiert Hochzeiten, Firmenanlässe, Tage der offenen Tür und öffentliche Veranstaltungen. Ausserdem vermietet sie Eventmaterial wie Zelte, Tische, Beleuchtung, Fotoboxen und Hüpfburgen und bietet Raumgestaltung, Dekoration und Floristik an.
