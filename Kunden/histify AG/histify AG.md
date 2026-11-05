@@ -1,3 +1,11 @@
+---
+aliases:
+  - histify
+tags:
+  - kunde
+  - histify
+---
+
 # histify AG
 
 ## Kundenbeschreibung

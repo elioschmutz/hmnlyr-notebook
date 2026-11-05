@@ -1,3 +1,13 @@
+---
+aliases:
+  - KULTevents AG
+  - KULTevents
+  - Kultevents
+tags:
+  - kunde
+  - kultevents
+---
+
 # KULTEvents AG
 
 ## Kundenbeschreibung

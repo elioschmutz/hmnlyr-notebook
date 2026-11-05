@@ -1,3 +1,13 @@
+---
+aliases:
+  - Fabasoft Schweiz GmbH
+  - fabasoft
+  - Fabasoft
+tags:
+  - kunde
+  - fabasoft
+---
+
 # fabasoft Schweiz GmbH
 
 ## Kundenbeschreibung
